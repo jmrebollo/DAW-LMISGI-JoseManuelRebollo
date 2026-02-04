@@ -1,0 +1,60 @@
+﻿{
+  "cifp": {
+    "alumnes": [
+      {
+        "id": 1,
+        "nom": "Maria",
+        "llinatges": "Garcia López",
+        "data_naixement": "2005-03-15",
+        "correu": "maria.garcia@alumne.paucasesnoves.cat",
+        "telefon": "971123456",
+        "adreca": "Carrer Major, 23, Inca",
+        "data_matricula": "2024-09-15",
+        "curs": "DAW"
+      },
+      {
+        "id": 2,
+        "nom": "Joan",
+        "llinatges": "Martí Soler",
+        "data_matricula": "2024-09-15",
+        "curs": "DAM"
+      }
+    ],
+    "professors": [
+      {
+        "id": 101,
+        "nom": "Pere",
+        "llinatges": "Oliver Camps",
+        "data_naixement": "1978-11-08",
+        "correu": "pere.oliver@paucasesnovescifp.cat",
+        "telefon": "971234567",
+        "adreca": "Avinguda de Palma, 45, Inca",
+        "data_incorporacio": "2010-09-01",
+        "departament": "Informàtica",
+        "assignatures": [
+          {
+            "id_assignatura": 1,
+            "nom_assignatura": "Bases de Dades",
+            "cicle": "DAW",
+            "data_inici": "2024-09-15",
+            "data_final": "2025-06-20"
+          },
+          {
+            "id_assignatura": 2,
+            "nom_assignatura": "Programació",
+            "cicle": "DAM",
+            "data_inici": "2024-09-15"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "nom": "Joana",
+        "llinatges": "Monserrat Vidal",
+        "correu": "joana.monserrat@paucasesnovescifp.cat",
+        "data_incorporacio": "2023-09-01",
+        "departament": "Electricitat"
+      }
+    ]
+  }
+}
