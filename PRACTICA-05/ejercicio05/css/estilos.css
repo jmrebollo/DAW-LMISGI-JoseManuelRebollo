@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf2fb;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #1a3a6b;
+}
+
+.oficina {
+    background-color: #fff;
+    border: 1px solid #c8daea;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.oficina-header {
+    background-color: #1a3a6b;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+.oficina-body {
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+    align-items: center;
+}
+
+.oficina-foto img {
+    width: 200px;
+    height: 130px;
+    object-fit: cover;
+}
+
+.oficina-info table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px 10px;
+    border-bottom: 1px solid #dce8f5;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
