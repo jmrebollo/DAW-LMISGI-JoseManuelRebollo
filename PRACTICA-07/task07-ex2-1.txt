@@ -1,0 +1,34 @@
+[
+  {
+    "id": "07002",
+    "nom": "Alaior"
+  },
+  {
+    "id": "07015",
+    "nom": "Ciutadella de Menorca"
+  },
+  {
+    "id": "07064",
+    "nom": "es Castell"
+  },
+  {
+    "id": "07037",
+    "nom": "es Mercadal"
+  },
+  {
+    "id": "07902",
+    "nom": "es Migjorn Gran"
+  },
+  {
+    "id": "07023",
+    "nom": "Ferreries"
+  },
+  {
+    "id": "07032",
+    "nom": "Maó"
+  },
+  {
+    "id": "07052",
+    "nom": "Sant Lluís"
+  }
+]

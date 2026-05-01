@@ -1,0 +1,30 @@
+[
+  {
+    "id": "07026",
+    "nom": "Eivissa"
+  },
+  {
+    "id": "07064",
+    "nom": "es Castell"
+  },
+  {
+    "id": "07037",
+    "nom": "es Mercadal"
+  },
+  {
+    "id": "07902",
+    "nom": "es Migjorn Gran"
+  },
+  {
+    "id": "07019",
+    "nom": "Escorca"
+  },
+  {
+    "id": "07020",
+    "nom": "Esporles"
+  },
+  {
+    "id": "07021",
+    "nom": "Estellencs"
+  }
+]
